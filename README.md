@@ -4,4 +4,4 @@
 2.- Create database laundry  
 3.- Create tables with /Laundry/database/laundry.sql  
 4.- Change user and password used to mysq connection in /Laundry/database/Connection.php  
-5.- Login in http://localhost/laundry
+5.- Login in http://localhost/laundry with user:admin and password:admin
